@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Jitsi Test</string>
+    <string name="join_a_jitsi_meet">Join a Jitsi Meet</string>
+    <string name="enter_room_id">Enter room ID</string>
+    <string name="join">Join</string>
+</resources>
